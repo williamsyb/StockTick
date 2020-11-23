@@ -19,5 +19,5 @@
 
 > 项目展示
 
-![image](https://github.com/williamsyb/StockTick/master/screenshot/stockTick01.png)
-![image](https://github.com/williamsyb/StockTick/master/screenshot/stockTick02.png)
+![image](https://github.com/williamsyb/StockTick/blob/main/screenshot/stockTick01.png)
+![image](https://github.com/williamsyb/StockTick/blob/main/screenshot/stockTick02.png)
